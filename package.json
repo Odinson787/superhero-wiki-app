@@ -1,5 +1,6 @@
 {
   "name": "superherowiki",
+  "homepage": "https://Odinson787.github.io/superhero-wiki-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
